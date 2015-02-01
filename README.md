@@ -13,4 +13,4 @@ Using [an inverter IC](http://www.okaphone.com/artikel.asp?id=433654):
 
 Using transistors and diodes (note: never got this to work), should be the same as using the IC:
 
-![Transistor invertor](Transistor/InverterTransisorsBreadboard.png)
+![Transistor invertor](Transistors/InverterTransisorsBreadboard.png)
